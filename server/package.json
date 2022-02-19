@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "prompt-sync": "^4.2.0",
+    "socket.io": "^4.4.0"
+  }
+}
