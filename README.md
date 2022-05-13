@@ -1,5 +1,5 @@
 # build-a-bn
-> Build you very own (very simple) botnet!
+> Build your very own (very simple) botnet!
 
 <br>
 
